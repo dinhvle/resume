@@ -4,7 +4,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "./images/qrcode2.png"
+photo: "./images/qrcode.resume.png"
 name: "Dinh V. Le"
 copy: "A Full-Stack Web Developer based in Austin, TX. I'm currently at Galvanize learning and working on various projects."
 
