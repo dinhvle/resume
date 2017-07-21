@@ -6,7 +6,7 @@ demo: false
 
 photo: "./images/qrcode-resume.png"
 name: "Dinh V. Le"
-copy: "A Full Stack Developer based in Austin, TX. I'm currently at Aingines learning and working on cool projects."
+copy: "A Full Stack Developer based in Austin, TX. When I'm not writing code, I like to hop on my kayak."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
