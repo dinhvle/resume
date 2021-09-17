@@ -6,7 +6,7 @@ demo: false
 
 photo: "./images/qrcode-resume.png"
 name: "Dinh V. Le"
-copy: "A Full Stack Developer based in the Midwest, currently interested in developing offline first applications. When I'm not writing code, I like to hop on my kayak."
+copy: "A Developer based in the Midwest, currently interested Jamstack and AI Chatbots. When I'm not writing code, I like to hop on my kayak."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
